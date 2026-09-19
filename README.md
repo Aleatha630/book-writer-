@@ -6,7 +6,8 @@
 You’ve spent three sleepless nights meticulously crafting a masterpiece. The plot is legendary: humble grocery store clerks getting unexpectedly drafted into elite gnome vanguard battalions. The tension is palpable. The world-building is flawless. You pause, take a sip of coffee, and ask the AI a simple continuity question about a major character. 
 
 Then, it happens. The inevitable, soul-crushing response:
-*🤖 "I'm sorry, but jimmy the leperchuan is nowhere mentioned in the story' in our previous text. Would you like me to invent him as a new character for you?"*
+*🤖*"I'm sorry, but Jimmy the Leprechaun isn't mentioned anywhere in the conversation. Would you like me to invent him as a new character?"*
+*
 
 Cue the immediate urge to throw your entire desktop monitor out a third-story window. Your blood pressure spikes. You feel like World War 3 is actively erupting inside your skull. You are ready to fight the algorithm in a parking lot. 
 
